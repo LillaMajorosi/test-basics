@@ -1,0 +1,26 @@
+{
+  "name": "test-basics",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LillaMajorosi/test-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LillaMajorosi/test-basics/issues"
+  },
+  "homepage": "https://github.com/LillaMajorosi/test-basics#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
